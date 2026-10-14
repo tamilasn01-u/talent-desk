@@ -1,3 +1,6 @@
+# talent-desk
+An HR portal for managing candidates, resumes, and job postings.
+
 # AI-Powered Resume Screening and Job Matching System
 
 Local Java Spring Boot service that lets HR upload candidate resumes, extract structured profile data, and match candidates to job postings.
